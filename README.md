@@ -1,2 +1,2 @@
 # FunGames
-Kid Games
+Kid Games made with AI
