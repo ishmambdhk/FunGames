@@ -1,4 +1,4 @@
 # FunGames
 Kid Games made with AI.
 
-Volume Hand Control and webcam Drawing Written by my colleague Vincent Sutanto
+Volume Hand Control and object measurement written by my colleague Vincent Sutanto
